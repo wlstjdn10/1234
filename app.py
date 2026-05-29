@@ -6,7 +6,7 @@ from datetime import datetime, timedelta
 # 기본 설정
 # -----------------------------
 st.set_page_config(
-    page_title="오성중 급식 앱",
+    page_title="오성고 급식 앱",
     page_icon="🍱",
     layout="centered"
 )
